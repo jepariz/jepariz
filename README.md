@@ -3,12 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+em+forma%C3%A7%C3%A3o;com+uma+quedinha+pelo+Back-end)](https://git.io/typing-svg)
 
-<img align="left" src="https://cdn.picrew.me/shareImg/org/202212/644129_MKvsvCBv.png" width="350px"> Enquanto eu fazia mestrado em Tecnologia e Sociedade na UTFPR, participei de eventos sobre a presença de mulheres na área tech e fiquei cada vez mais interessada em fazer uma transição de carreira para T.I. Minha formação inicial foi em Letras e eu atuei como professora de português no Ensino Médio por mais de 8 anos. Comecei a transição em julho de 2022 e foi a melhor decisão que já tomei. 
+<img align="left" src="https://cdn.picrew.me/shareImg/org/202212/644129_MKvsvCBv.png" width="320px"> Enquanto eu fazia mestrado em Tecnologia e Sociedade na UTFPR, participei de eventos sobre a presença de mulheres na área tech e fiquei cada vez mais interessada em fazer uma transição de carreira para T.I. Minha formação inicial foi em Letras e eu atuei como professora de português no Ensino Médio por mais de 8 anos. Comecei a transição em julho de 2022 e foi a melhor decisão que já tomei. 
 Hoje, faço o bootcamp da Driven e aprendi muito mais do que eu acreditava ser possível em tão pouco tempo. Minha meta é me firmar como uma desenvolvedora de sucesso e criar ferramentas para conectar mulheres que também querem entrar para a área tech, mas não sabem como fazer isso. 
 
 **********
 <div align="left">
-	🔭 No momento, estou trabalhando <strong>nos projetos do bootcamp da Driven</strong> <br>
 🌱 Atualmente, estou aprendendo <strong>SQL com Postgres</strong><br>
 💬 Posso responder perguntas sobre <strong>JavaScript, React, Nodejs e Mongodb</strong><br>
 ⚡ Fun fact <strong>sou a mãe orgulhosa de 4 gatos</strong></h4> 
