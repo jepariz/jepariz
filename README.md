@@ -18,7 +18,7 @@ Hoje, faço o bootcamp da Driven e aprendi muito mais do que eu acreditava ser p
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jepariz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="153em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jepariz&layout=compact&langs_count=8&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jepariz&layout=compact&langs_count=8&theme=radical"/>
 <div>	
 	
 	
