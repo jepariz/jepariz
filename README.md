@@ -22,13 +22,13 @@ Hoje, faço o bootcamp da Driven e aprendi muito mais do que eu acreditava ser p
 <div>	
 	
 	
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Linguagens e Ferramentas:</h3>
 <p align="center"><img height="40" width="40" src="https://cdn.simpleicons.org/css3/fd428d" /> <img height="40" width="40" src="https://cdn.simpleicons.org/html5/fd428d"/> <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/fd428d"/> <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/fd428d"/> <img height="40" width="40" src="https://cdn.simpleicons.org/express/fd428d"/> <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/fd428d"/></p></div>
 </div>
 
 *******************
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Entre em contato:</h3>
 <p align="center"><img src="https://custom-icon-badges.demolab.com/badge/-je.parizotto@gmail.com-fd428d?style=for-the-badge&logo=mention&logoColor=white"> 
 <a href="https://linkedin.com/in/jessicaparizotto" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-fd428d?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/dev.humanas" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Instagram-fd428d?style=for-the-badge&logo=instagram&logoColor=white"></a>
