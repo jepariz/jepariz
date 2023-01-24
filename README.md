@@ -22,7 +22,7 @@ Hoje, faço o bootcamp da Driven e aprendi muito mais do que eu acreditava ser p
 	
 	
 <h3 align="center">Linguagens e Ferramentas:</h3>
-<p align="center"><img height="40" width="40" src="https://cdn.simpleicons.org/css3/fd428d" /> <img height="40" width="40" src="https://cdn.simpleicons.org/html5/fd428d"/> <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/fd428d"/> <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/fd428d"/> <img height="40" width="40" src="https://cdn.simpleicons.org/express/fd428d"/> <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/fd428d"/><img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/fd428d"/></p></div>
+<p align="center"><img height="40" width="40" src="https://cdn.simpleicons.org/css3/fd428d" title='CSS'/> <img height="40" width="40" src="https://cdn.simpleicons.org/html5/fd428d" title='HTML'/> <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/fd428d" title='JavaScript'/> <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/fd428d" title='NodeJS'/> <img height="40" width="40" src="https://cdn.simpleicons.org/express/fd428d" title='Express'/> <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/fd428d" title='Mongodb'/><img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/fd428d" title='PostgreSQL'/></p></div>
 </div>
 
 *******************
